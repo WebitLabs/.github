@@ -1,6 +1,6 @@
-# 👋🏼 Hey There, Tech Enthusiasts! Welcome to WebitLabs GitHub! 🚀
-
 ![WebitLabs Banner](https://hodlezz-dev.fra1.cdn.digitaloceanspaces.com/logos/labs-white.png)
+
+# 👋🏼 Hey There, Tech Enthusiasts! Welcome to WebitLabs GitHub! 🚀
 
 We are **WebitLabs**, the coding wizards 🧙‍♂️ on a mission to catalyze the web3 revolution, one line of code at a time. This is the place where open-source magic happens, and where your coding dreams might just come true. Remember, the keyboard ⌨️ is mightier than the sword! 🗡️
 
