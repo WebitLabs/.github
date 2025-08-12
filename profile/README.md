@@ -1,4 +1,4 @@
-![WebitFactory Banner]([https://hodlezz-dev.fra1.cdn.digitaloceanspaces.com/logos/labs-white.png](https://webitfactory.io/wp-content/uploads/2023/03/webitfactory-logo-white-1-1024x957.png))
+![WebitFactory Banner](https://webitfactory.io/wp-content/uploads/2023/03/webitfactory-logo-white-1-1024x957.png)]
 
 # 👋🏼 Hey There, Tech Enthusiasts! Welcome to WebitFactory's GitHub! 🚀
 
