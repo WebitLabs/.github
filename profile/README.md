@@ -1,5 +1,3 @@
-![WebitFactory Banner](https://webitfactory.io/wp-content/uploads/2023/03/webitfactory-logo-white-1-1024x957.png)
-
 # 👋🏼 Hey There, Tech Enthusiasts! Welcome to WebitFactory's GitHub! 🚀
 
 We are **WebitFactory**, the coding wizards 🧙‍♂️ on a mission to catalyze the web3 revolution, one line of code at a time. This is the place where open-source magic happens, and where your coding dreams might just come true. Remember, the keyboard ⌨️ is mightier than the sword! 🗡️
